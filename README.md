@@ -9,7 +9,7 @@ Este proyecto consiste en el desarrollo del juego clásico "Piedra, Papel o Tije
 4. Se muestra el resultado: ganar, perder o empate.
 
 # Diagrama de flujo
-DIAGRAMA DE FLUJO/DIAGRAMA DE FLUJO PIEDRA PAPEL O TIJERA.pdf
+DIAGRAMA DE FLUJO/DIAGRAMA DE FLUJO.png
 
 # Tecnologías utilizadas
 - Python
