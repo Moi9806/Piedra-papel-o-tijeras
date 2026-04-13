@@ -18,4 +18,5 @@ DIAGRAMA DE FLUJO/DIAGRAMA DE FLUJO PIEDRA PAPEL O TIJERA.pdf
 
 # Cómo ejecutar el programa
 1. Abrir la terminal
-2. Ejecutar:
+2. Ejecutar el codigo en la carpeta:
+3. CODIGO/JUEGO.py
