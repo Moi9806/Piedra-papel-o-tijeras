@@ -19,4 +19,5 @@ DIAGRAMA DE FLUJO/DIAGRAMA DE FLUJO.png
 # Cómo ejecutar el programa
 1. Abrir la terminal
 2. Ejecutar el codigo en la carpeta:
-3. CODIGO/JUEGO.py
+3. CODIGO/PPT.py
+4. El juego se ejecuta de la siguiente manera: en la terminal escribimos python PPT.py
