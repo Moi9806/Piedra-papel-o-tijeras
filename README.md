@@ -1,6 +1,11 @@
 # Piedra-papel-o-tijeras
 # Descripción
+
 Este proyecto consiste en el desarrollo del juego clásico "Piedra, Papel o Tijera", donde el usuario compite contra la computadora.
+
+# Objetivo del programa
+
+El objetivo de este programa es desarrollar una aplicación interactiva en Python que simule el juego de Piedra, Papel o Tijera, permitiendo al usuario competir contra la computadora mediante una interfaz sencilla. El programa busca aplicar conceptos básicos de programación como estructuras de control, funciones, validación de datos y generación de números aleatorios, además de ofrecer una experiencia amigable que incluya un menú principal, visualización de reglas y la posibilidad de repetir el juego según la decisión del usuario.
 
 # Funcionamiento 
 
