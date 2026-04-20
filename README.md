@@ -21,8 +21,8 @@ DIAGRAMA DE FLUJO/DIAGRAMA JUEGO PIEDRA PAPEL O TIJERA.jpg
 # Tecnologías utilizadas
 
 - Python
-- Git
-- GitHub
+- Librería random
+
 
 # Cómo ejecutar el programa
 
